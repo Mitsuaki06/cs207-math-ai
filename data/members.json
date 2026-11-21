@@ -1,0 +1,22 @@
+{
+    "members": [
+        {
+            "name": "ณัชพล พงษ์สวัสดิ์",
+            "student_id": "1680700190",
+            "role": "App Design & Custom App (custom.py)",
+            "image": "data/imgs/Natc.png"
+        },
+        {
+            "name": "กวี กล้าสงคราม",
+            "student_id": "1680701339",
+            "role": "Markov Text Prediction & Testing",
+            "image": "data/imgs/Kwee.png"
+        },
+        {
+            "name": "พิสิฐชัย สุขรัตนี",
+            "student_id": "1680701255",
+            "role": "Statistics & Bayes Calculation",
+            "image": "data/imgs/Pisit.png"
+        }
+    ]
+}
